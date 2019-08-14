@@ -17,7 +17,9 @@ Each client requests is stored in the queue before forwarding the message to the
 
 ### C4 Model
 
-![Level 1: Context Diagram](https://github.com/osumasum1/integrattion-pattern/blob/master/images/Level%201.png)
+<p align="center">
+  ![Level 1: Context Diagram](https://github.com/osumasum1/integrattion-pattern/blob/master/images/Level%201.png)
+</p>
 
 ![Level 2: Container Diagram](https://github.com/osumasum1/integrattion-pattern/blob/master/images/Level%202.png)
 
